@@ -43,8 +43,8 @@ Some demos do not require some submodules, in these cases, they are still provid
 | Submodule | Used by this demo |
 |-----------|-------------------|
 | HW        | Yes      |
-| OS        | YES         |
-| SW        | No         |
+| OS        | No       |
+| SW        | Yes      |
 
 This demo was moved into this repository during 2020.1 updates. Its history prior to these updates can be found in its old repository, linked below:
 * https://github.com/Digilent/Cora-Z7-07S-XADC/
