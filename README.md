@@ -35,4 +35,4 @@ The following are required for use of this demo. For more information on how to 
 
 * Cora Z7-07S
 * MicroUSB cable
-* Vivado 2020.1 installation
+* Vivado 2021.1 installation
