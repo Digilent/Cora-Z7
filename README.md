@@ -55,6 +55,6 @@ The following are required for use of this demo. For more information on how to 
 
 * Cora Z7-07S
 * MicroUSB cable
-* Vivado and Vitis 2021.1 installations
+* Vivado and Vitis 2022.1 installations
 * Serial Terminal Emulator
 * Wires and a circuit to measure
