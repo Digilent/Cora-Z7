@@ -40,7 +40,7 @@ The following are required for use of this demo. For more information on how to 
 
 * Cora Z7-10
 * MicroUSB cable
-* Vivado 2020.1 installation
+* Vivado 2021.1 installation
 * Pmod VGA
 * VGA Monitor
 * VGA Cable
